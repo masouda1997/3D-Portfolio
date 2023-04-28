@@ -1,0 +1,6 @@
+using:
+three.js ==> 3d graphic library
+react three fiber ==> lib for threejs in react 
+tailwindcss
+framer motion ==> animations in reat
+vite

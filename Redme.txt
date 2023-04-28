@@ -4,3 +4,51 @@ react three fiber ==> lib for threejs in react
 tailwindcss
 framer motion ==> animations in reat
 vite
+
+
+The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today! 
+
+💻 JS Mastery Pro - https://jsmastery.pro/youtube
+✅ A special YOUTUBE discount code is automatically applied!
+
+⭐Hostinger - https://hostinger.com/mastery10
+Use the code JAVASCRIPTMASTERY to save up to 91% on all yearly hosting plans.
+
+📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more: https://www.jsmastery.pro/resources
+
+📚 Materials/References:
+GitHub Code (give it a star ⭐): https://github.com/adrianhajdin/proje...
+GitHub Gist Code Snippets: https://gist.github.com/adrianhajdin/...
+Assets, Components, Public folders: https://drive.google.com/drive/folder...
+Bruno Simon Portfolio - https://bruno-simon.com/
+Junni - https://next.junni.co.jp/
+
+In this course, you'll learn the following:
+- ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
+- React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
+- TailwindCSS - a popular utility-first CSS styling framework
+- Framer Motion - the most popular library used to bring your React website to life with animations
+You'll also learn how to:
+- Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
+- Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
+- Implement sending emails through a form on the website
+- Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
+
+💻 Join JSM on Discord - https://discord.gg/n6EdbFJ
+🐦 Follow JSM on Twitter - https://twitter.com/jsmasterypro
+🖼️ Follow JSM on Instagram - https://instagram.com/javascriptmastery
+
+💼 Business Inquiries: contact@jsmastery.pro
+
+👇 Time Stamps:
+00:17:55 Layout
+00:21:07 Navigation bar
+00:40:57 Hero Section
+01:07:41 About Section
+01:17:09 Higher Order Component
+01:23:28 Experience Section
+01:44:33 Projects Section
+02:01:01 Testimonials
+02:13:15 Contact
+02:32:09 3D Stars
+02:49:09 Deployment

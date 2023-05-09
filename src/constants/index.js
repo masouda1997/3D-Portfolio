@@ -193,9 +193,9 @@ const testimonials = [
 
 const projects = [
 	{
-		name: "Car Rent",
+		name: "Macula Detection",
 		description:
-			"Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+			"Its a Image processing project that recognize optic disk and find Macula base on the optic disk ",
 		tags: [
 			{
 				name: "react",
@@ -214,7 +214,7 @@ const projects = [
 		source_code_link: "https://github.com/",
 	},
 	{
-		name: "Job IT",
+		name: "Limoo-Shop",
 		description:
 			"Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
 		tags: [

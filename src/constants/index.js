@@ -14,7 +14,6 @@ import {
 	mongodb,
 	git,
 	figma,
-	docker,
 	meta,
 	starbucks,
 	tesla,
@@ -107,10 +106,6 @@ const technologies = [
 	{
 		name: "figma",
 		icon: figma,
-	},
-	{
-		name: "docker",
-		icon: docker,
 	},
 ];
 

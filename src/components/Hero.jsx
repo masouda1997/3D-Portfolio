@@ -27,17 +27,17 @@ const Hero = () => {
 
 			<div className="absolute xs:bottom-10 bottom-10 w-full flex justify-center items-center">
 				<a href="#about">
-					<div className="w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start ">
+					<div className="w-[30px] h-[50px] rounded-3xl border-[3px] border-secondary flex justify-center items-start ">
 						<motion.dev
 							animate={{
-								y: [5, 35, 5],
+								y: [5, 23, 5],
 							}}
 							transition={{
 								duration: 1.5,
 								repeat: Infinity,
 								repeatType: "loop",
 							}}
-							className="w-4 h-4 rounded-full bg-secondary mb-1 "
+							className="w-4 h-4 rounded-full bg-secondary mb-5 "
 						/>
 					</div>
 				</a>
